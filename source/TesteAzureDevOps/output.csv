@@ -1,0 +1,191 @@
+1;Epic;Configurações;12/06/2019 14:27:40;UX;;12/06/2019 14:27:40
+1;Epic;Configurações;12/06/2019 14:27:40;UX;New;13/06/2019 14:31:41
+2;User Story;Release 2 - Pré-Faturamento Manual;13/06/2019 12:44:24;UX\Iteration 1;Backlog;13/06/2019 12:44:24
+3;User Story;Release 2 - Novos itens de Contratos agregados aos acessos;13/06/2019 12:47:44;UX\Iteration 1;Backlog;13/06/2019 12:47:44
+3;User Story;Release 2 - Novos itens de Contratos agregados aos acessos existentes;13/06/2019 12:47:44;UX\Iteration 1;Development;24/06/2019 14:49:01
+3;User Story;Release 2 - Novos itens de Contratos agregados aos acessos existentes;13/06/2019 12:47:44;UX\Iteration 1;Test;27/06/2019 19:21:55
+3;User Story;Release 2 - Novos itens de Contratos agregados aos acessos existentes;13/06/2019 12:47:44;UX\Iteration 1;Resolved;27/06/2019 20:17:52
+3;User Story;Release 2 - Novos itens de Contratos agregados aos acessos existentes;13/06/2019 12:47:44;UX\Iteration 1;Closed;02/07/2019 19:49:26
+4;User Story;Release 2 - Migração .NetCore;13/06/2019 12:49:02;UX\Iteration 1;Backlog;13/06/2019 12:49:02
+4;User Story;Release 2 - Migração .NetCore;13/06/2019 12:49:02;UX\Iteration 1;Test;13/06/2019 12:49:30
+4;User Story;Release 2 - Migração .NetCore;13/06/2019 12:49:02;UX\Iteration 1;Resolved;17/06/2019 13:33:04
+4;User Story;Release 2 - Migração .NetCore;13/06/2019 12:49:02;UX\Iteration 1;Closed;19/06/2019 17:17:22
+7;User Story;595383 - ;13/06/2019 13:03:55;UX\Iteration 1;Backlog;13/06/2019 13:03:55
+7;User Story;595383 - LENTIDÃO PARA CARREGAR A ETAPA DO CHECKLIST;13/06/2019 13:03:55;UX\Iteration 1;To do;13/06/2019 13:41:15
+7;Bug;595383 - LENTIDÃO PARA CARREGAR A ETAPA DO CHECKLIST;13/06/2019 13:03:55;UX\Iteration 1;;13/06/2019 13:52:17
+7;Bug;595383 - LENTIDÃO PARA CARREGAR A ETAPA DO CHECKLIST;13/06/2019 13:03:55;UX\Iteration 1;To do;13/06/2019 13:55:19
+7;Bug;595383 - LENTIDÃO PARA CARREGAR A ETAPA DO CHECKLIST;13/06/2019 13:03:55;UX\Iteration 1;Backlog;13/06/2019 15:08:10
+7;Bug;595383 - LENTIDÃO PARA CARREGAR A ETAPA DO CHECKLIST;13/06/2019 13:03:55;UX\Iteration 1;To do;14/06/2019 12:37:01
+7;Bug;595383 - LENTIDÃO PARA CARREGAR A ETAPA DO CHECKLIST;13/06/2019 13:03:55;UX\Iteration 1;Development;14/06/2019 16:48:36
+7;Bug;595383 - LENTIDÃO PARA CARREGAR A ETAPA DO CHECKLIST;13/06/2019 13:03:55;UX\Iteration 1;Resolved;14/06/2019 18:01:53
+7;Bug;595383 - LENTIDÃO PARA CARREGAR A ETAPA DO CHECKLIST;13/06/2019 13:03:55;UX\Iteration 1;Closed;17/06/2019 16:21:56
+8;User Story;595430 - ;13/06/2019 13:04:24;UX\Iteration 1;Backlog;13/06/2019 13:04:24
+8;User Story;595430 - ERRO PARA GERAR BOOK SOL 1464;13/06/2019 13:04:24;UX\Iteration 1;To do;13/06/2019 13:41:18
+8;Bug;595430 - ERRO PARA GERAR BOOK SOL 1464;13/06/2019 13:04:24;UX\Iteration 1;;13/06/2019 13:52:43
+8;Bug;595430 - ERRO PARA GERAR BOOK SOL 1464;13/06/2019 13:04:24;UX\Iteration 1;To do;13/06/2019 13:55:19
+8;Bug;595430 - ERRO PARA GERAR BOOK SOL 1464;13/06/2019 13:04:24;UX\Iteration 1;Development;13/06/2019 14:37:03
+8;Bug;595430 - ERRO PARA GERAR BOOK SOL 1464;13/06/2019 13:04:24;UX\Iteration 1;Resolved;14/06/2019 19:39:37
+8;Bug;595430 - ERRO PARA GERAR BOOK SOL 1464;13/06/2019 13:04:24;UX\Iteration 1;Closed;17/06/2019 16:22:18
+9;User Story;595493 - ;13/06/2019 13:05:02;UX\Iteration 1;Backlog;13/06/2019 13:05:02
+9;User Story;595493 -  WORKFLOW GERENTE DE CONTAS com link errado;13/06/2019 13:05:02;UX\Iteration 1;To do;13/06/2019 13:41:22
+9;Bug;595493 -  WORKFLOW GERENTE DE CONTAS com link errado;13/06/2019 13:05:02;UX\Iteration 1;;13/06/2019 13:52:32
+9;Bug;595493 -  WORKFLOW GERENTE DE CONTAS com link errado;13/06/2019 13:05:02;UX\Iteration 1;To do;13/06/2019 13:55:19
+9;Bug;595493 -  WORKFLOW GERENTE DE CONTAS com link errado;13/06/2019 13:05:02;UX\Iteration 1;Backlog;13/06/2019 15:08:12
+9;Bug;595493 -  WORKFLOW GERENTE DE CONTAS com link errado;13/06/2019 13:05:02;UX\Iteration 1;To do;13/06/2019 18:58:18
+9;Bug;595493 -  WORKFLOW GERENTE DE CONTAS com link errado;13/06/2019 13:05:02;UX\Iteration 1;Backlog;14/06/2019 12:37:14
+9;Bug;595493 -  WORKFLOW GERENTE DE CONTAS com link errado;13/06/2019 13:05:02;UX\Iteration 1;Development;14/06/2019 18:44:10
+9;Bug;595493 -  WORKFLOW GERENTE DE CONTAS com link errado;13/06/2019 13:05:02;UX\Iteration 1;Resolved;14/06/2019 19:56:14
+9;Bug;595493 -  WORKFLOW GERENTE DE CONTAS com link errado;13/06/2019 13:05:02;UX\Iteration 1;Closed;17/06/2019 18:55:14
+10;User Story;Dashboards - Powerbi ou outra?;13/06/2019 14:06:04;UX\Iteration 1;Backlog;13/06/2019 14:06:04
+10;User Story;Dashboards - Powerbi ou outra?;13/06/2019 14:06:04;UX\Iteration 1;To do;13/06/2019 14:58:59
+10;User Story;Dashboards - Powerbi ou outra?;13/06/2019 14:06:04;UX\Iteration 1;Backlog;13/06/2019 15:02:52
+10;User Story;Dashboards - Powerbi ou outra?;13/06/2019 14:06:04;UX\Iteration 1;To do;13/06/2019 15:03:02
+10;User Story;Dashboards - Powerbi ou outra?;13/06/2019 14:06:04;UX\Iteration 1;Backlog;26/06/2019 17:43:37
+11;Epic;Sustentação;13/06/2019 14:10:25;UX;;13/06/2019 14:10:25
+11;Epic;Sustentação;13/06/2019 14:10:25;UX;New;13/06/2019 14:31:41
+11;Epic;Sustentação;13/06/2019 14:10:25;UX;Active;13/06/2019 14:31:59
+12;User Story;Responsivo - Revisão e Ajustes;13/06/2019 14:11:25;UX\Iteration 1;Backlog;13/06/2019 14:11:25
+12;User Story;Responsivo - Revisão e Ajustes;13/06/2019 14:11:25;UX\Iteration 1;To do;13/06/2019 14:58:57
+12;User Story;Responsivo - Revisão e Ajustes;13/06/2019 14:11:25;UX\Iteration 1;Backlog;13/06/2019 15:02:51
+12;User Story;Responsivo - Revisão e Ajustes;13/06/2019 14:11:25;UX\Iteration 1;To do;13/06/2019 15:03:00
+12;User Story;Responsivo - Revisão e Ajustes;13/06/2019 14:11:25;UX\Iteration 1;Backlog;14/06/2019 12:45:32
+12;User Story;Responsivo - Revisão e Ajustes;13/06/2019 14:11:25;UX\Iteration 1;To do;17/06/2019 13:34:45
+12;User Story;Responsivo - Revisão e Ajustes;13/06/2019 14:11:25;UX\Iteration 1;Backlog;18/06/2019 18:55:11
+13;User Story;Acesso UX - Contratos Novos;13/06/2019 14:49:10;UX\Iteration 1;Backlog;13/06/2019 14:49:10
+13;User Story;Acesso UX - Contratos Novos;13/06/2019 14:49:10;UX\Iteration 1;To do;13/06/2019 14:53:20
+13;User Story;Acesso UX - Contratos Novos;13/06/2019 14:49:10;UX\Iteration 1;Backlog;13/06/2019 15:02:48
+13;User Story;Acesso UX - Contratos Novos;13/06/2019 14:49:10;UX\Iteration 1;To do;13/06/2019 15:02:58
+13;User Story;Acesso UX - Contratos Novos;13/06/2019 14:49:10;UX\Iteration 1;Development;14/06/2019 13:11:52
+13;Bug;Acesso UX - Contratos Novos;13/06/2019 14:49:10;UX\Iteration 1;Resolved;14/06/2019 18:43:59
+13;Bug;Acesso UX - Contratos Novos;13/06/2019 14:49:10;UX\Iteration 1;Closed;18/06/2019 18:42:59
+14;User Story;Migração de Testes Automatizados para Selenium;13/06/2019 14:59:20;UX\Iteration 1;Backlog;13/06/2019 14:59:20
+14;User Story;Migração de Testes Automatizados para Selenium;13/06/2019 14:59:20;UX\Iteration 1;To do;13/06/2019 15:03:05
+14;User Story;Migração de Testes Automatizados para Selenium;13/06/2019 14:59:20;UX\Iteration 1;Backlog;14/06/2019 12:33:07
+14;User Story;Migração de Testes Automatizados para Selenium;13/06/2019 14:59:20;UX\Iteration 1;Development;14/06/2019 12:46:52
+14;User Story;Migração de Testes Automatizados para Selenium;13/06/2019 14:59:20;UX\Iteration 1;Backlog;14/06/2019 12:50:35
+14;User Story;Migração de Testes Automatizados para Selenium;13/06/2019 14:59:20;UX\Iteration 1;Development;14/06/2019 12:50:48
+14;User Story;Migração de Testes Automatizados para Selenium;13/06/2019 14:59:20;UX\Iteration 1;Closed;01/07/2019 20:32:55
+15;User Story;Release 3 - Consumíveis;13/06/2019 15:10:05;UX\Iteration 1;Backlog;13/06/2019 15:10:05
+26;User Story;Contadores;13/06/2019 18:57:05;UX\Iteration 1;Backlog;13/06/2019 18:57:05
+30;User Story;ChatBot - Implantação na Retirada;14/06/2019 11:52:04;UX\Iteration 1;Backlog;14/06/2019 11:52:04
+31;User Story;LiveChat - Implantação no Pré-Faturamento;14/06/2019 11:53:50;UX\Iteration 1;Backlog;14/06/2019 11:53:50
+32;User Story;Projeto de API para o SimpressUX.Core;14/06/2019 12:06:20;UX\Iteration 1;Backlog;14/06/2019 12:06:20
+32;User Story;Projeto de API para o SimpressUX.Core;14/06/2019 12:06:20;UX\Iteration 1;To do;14/06/2019 12:26:03
+32;User Story;Projeto de API para o SimpressUX.Core;14/06/2019 12:06:20;UX\Iteration 1;Development;14/06/2019 12:26:08
+32;User Story;Projeto de API para o SimpressUX.Core;14/06/2019 12:06:20;UX\Iteration 1;Closed;01/07/2019 18:07:10
+32;User Story;Projeto de API para o SimpressUX.Core;14/06/2019 12:06:20;UX\Iteration 1;Development;03/07/2019 13:24:01
+33;User Story;Criação do projeto de testes de unidade para o UX;14/06/2019 12:28:49;UX\Iteration 1;Backlog;14/06/2019 12:28:49
+33;User Story;Criação do projeto de testes de unidade para o UX;14/06/2019 12:28:49;UX\Iteration 1;To do;14/06/2019 12:29:06
+33;User Story;Criação do projeto de testes de unidade para o UX;14/06/2019 12:28:49;UX\Iteration 1;Development;14/06/2019 12:29:10
+33;User Story;Criação do projeto de testes de unidade para o UX;14/06/2019 12:28:49;UX\Iteration 1;Test;14/06/2019 13:33:22
+33;User Story;Criação do projeto de testes de unidade para o UX;14/06/2019 12:28:49;UX\Iteration 1;Resolved;14/06/2019 13:33:27
+34;User Story;595655 - ;14/06/2019 12:33:47;UX\Iteration 1;Backlog;14/06/2019 12:33:47
+34;User Story;595655 - Erro ao associar contratos e equipamentos;14/06/2019 12:33:47;UX\Iteration 1;To do;14/06/2019 12:36:35
+34;Bug;595655 - Erro ao associar contratos e equipamentos;14/06/2019 12:33:47;UX\Iteration 1;Development;14/06/2019 16:46:52
+34;Bug;595655 - Erro ao associar contratos e equipamentos;14/06/2019 12:33:47;UX\Iteration 1;To do;14/06/2019 16:48:31
+34;Bug;595655 - Erro ao associar contratos e equipamentos;14/06/2019 12:33:47;UX\Iteration 1;Development;14/06/2019 18:06:37
+34;Bug;595655 - Erro ao associar contratos e equipamentos;14/06/2019 12:33:47;UX\Iteration 1;To do;19/06/2019 14:00:42
+34;Bug;595655 - Erro ao associar contratos e equipamentos;14/06/2019 12:33:47;UX\Iteration 1;Development;19/06/2019 14:35:41
+34;Bug;595655 - Erro ao associar contratos e equipamentos;14/06/2019 12:33:47;UX\Iteration 1;Resolved;25/06/2019 18:05:27
+34;Bug;595655 - Erro ao associar contratos e equipamentos;14/06/2019 12:33:47;UX\Iteration 1;Closed;26/06/2019 11:57:39
+38;User Story;Migração do código SimpressUX.Core para o Azure Devops com Git;14/06/2019 13:13:28;UX\Iteration 1;Backlog;14/06/2019 13:13:28
+38;User Story;Migração do código SimpressUX.Core para o Azure Devops com Git;14/06/2019 13:13:28;UX\Iteration 1;To do;14/06/2019 13:13:37
+38;User Story;Migração do código SimpressUX.Core para o Azure Devops com Git;14/06/2019 13:13:28;UX\Iteration 1;Development;14/06/2019 13:13:41
+38;User Story;Migração do código SimpressUX.Core para o Azure Devops com Git;14/06/2019 13:13:28;UX\Iteration 1;Test;14/06/2019 13:30:07
+38;User Story;Migração do código SimpressUX.Core para o Azure Devops com Git;14/06/2019 13:13:28;UX\Iteration 1;Resolved;14/06/2019 13:30:13
+39;User Story;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;14/06/2019 13:26:25;UX\Iteration 1;Backlog;14/06/2019 13:26:25
+39;User Story;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;14/06/2019 13:26:25;UX\Iteration 1;To do;14/06/2019 13:27:03
+39;User Story;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;14/06/2019 13:26:25;UX\Iteration 1;Development;14/06/2019 13:27:07
+39;User Story;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;14/06/2019 13:26:25;UX\Iteration 1;Test;14/06/2019 13:30:51
+39;User Story;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;14/06/2019 13:26:25;UX\Iteration 1;Development;14/06/2019 13:30:56
+39;User Story;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;14/06/2019 13:26:25;UX\Iteration 1;Test;14/06/2019 13:31:09
+39;User Story;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;14/06/2019 13:26:25;UX\Iteration 1;Development;14/06/2019 13:31:14
+39;User Story;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;14/06/2019 13:26:25;UX\Iteration 1;Test;14/06/2019 13:31:28
+39;User Story;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;14/06/2019 13:26:25;UX\Iteration 1;Resolved;14/06/2019 13:31:33
+40;User Story;Melhorias Retirada de Equipamentos;14/06/2019 13:46:03;UX\Iteration 1;Backlog;14/06/2019 13:46:03
+45;User Story;DRA - Devolução de Equipamentos com Leitura do SN;14/06/2019 13:52:36;UX\Iteration 1;Backlog;14/06/2019 13:52:36
+46;User Story;DRA - Cronograma de Retiradas (acompanhar via SMS);14/06/2019 13:52:55;UX\Iteration 1;Backlog;14/06/2019 13:52:55
+47;User Story;Cliente Solicitar Prioridade na coleta "Botão Emergencial";14/06/2019 13:53:18;UX\Iteration 1;Backlog;14/06/2019 13:53:18
+48;User Story;DRA - Processo de Transferência de Equipamentos;14/06/2019 13:54:36;UX\Iteration 1;Backlog;14/06/2019 13:54:36
+49;User Story;DRA - Permitir que o cliente ou delegado possa anexar arquivos dentro da movimentação (CRM do processo ou aprovações);14/06/2019 13:55:06;UX\Iteration 1;Backlog;14/06/2019 13:55:06
+54;User Story;Revisão do Primeiro Acesso;14/06/2019 19:45:19;UX\Iteration 1;Backlog;14/06/2019 19:45:19
+54;User Story;Revisão do Primeiro Acesso;14/06/2019 19:45:19;UX\Iteration 1;To do;17/06/2019 13:34:57
+54;User Story;Revisão do Primeiro Acesso;14/06/2019 19:45:19;UX\Iteration 1;Backlog;18/06/2019 18:55:01
+56;Bug;sdf;17/06/2019 18:58:41;UX\Iteration 1;Backlog;17/06/2019 18:58:41
+56;Bug;595788 - Erro usuário SIMPRESS;17/06/2019 18:58:41;UX\Iteration 1;Development;17/06/2019 18:59:29
+56;Bug;595788 - Erro usuário SIMPRESS;17/06/2019 18:58:41;UX\Iteration 1;Closed;19/06/2019 16:49:29
+57;Bug;595970;18/06/2019 18:40:01;UX\Iteration 1;Backlog;18/06/2019 18:40:01
+57;Bug;595970 - ERRO NA APROVAÇÃO DE TONER SOL 2019;18/06/2019 18:40:01;UX\Iteration 1;To do;18/06/2019 18:41:01
+57;Bug;595970 - ERRO NA APROVAÇÃO DE TONER SOL 2019;18/06/2019 18:40:01;UX\Iteration 1;Development;19/06/2019 14:21:35
+57;Bug;595970 - ERRO NA APROVAÇÃO DE TONER SOL 2019;18/06/2019 18:40:01;UX\Iteration 1;Resolved;19/06/2019 14:35:06
+57;Bug;595970 - ERRO NA APROVAÇÃO DE TONER SOL 2019;18/06/2019 18:40:01;UX\Iteration 1;Closed;24/06/2019 15:09:34
+58;Bug;595939;18/06/2019 18:40:30;UX\Iteration 1;Backlog;18/06/2019 18:40:30
+58;Bug;595939 - Erro ao realizar aprovação Workflow GC;18/06/2019 18:40:30;UX\Iteration 1;To do;18/06/2019 18:40:57
+58;Bug;595939 - Erro ao realizar aprovação Workflow GC;18/06/2019 18:40:30;UX\Iteration 1;Development;19/06/2019 14:00:44
+58;Bug;595939 - Erro ao realizar aprovação Workflow GC;18/06/2019 18:40:30;UX\Iteration 1;Resolved;19/06/2019 14:21:31
+58;Bug;595939 - Erro ao realizar aprovação Workflow GC;18/06/2019 18:40:30;UX\Iteration 1;Closed;24/06/2019 15:09:32
+60;User Story;SonarQube no UX;19/06/2019 19:06:33;UX\Iteration 1;Backlog;19/06/2019 19:06:33
+60;User Story;SonarQube na build de CI ;19/06/2019 19:06:33;UX\Iteration 1;To do;19/06/2019 19:07:03
+60;User Story;SonarQube na build de CI ;19/06/2019 19:06:33;UX\Iteration 1;Development;19/06/2019 19:07:07
+60;User Story;SonarQube na build de CI ;19/06/2019 19:06:33;UX\Iteration 1;Closed;27/06/2019 20:24:58
+61;Epic;Consumíveis;19/06/2019 20:27:53;UX;New;19/06/2019 20:27:53
+63;Feature;Excedente Consumíveis;19/06/2019 20:35:06;UX\Iteration 1;New;19/06/2019 20:35:06
+64;User Story;Pró-ativo de consumíveis;19/06/2019 20:39:25;UX;Backlog;19/06/2019 20:39:25
+65;User Story;Pró-ativo de consumíveis;19/06/2019 20:39:55;UX;Backlog;19/06/2019 20:39:55
+66;Feature;Trocas antecipadas de consumíveis;19/06/2019 21:10:27;UX;New;19/06/2019 21:10:27
+68;Feature;Falta de abastecimento de consumíveis;19/06/2019 21:11:45;UX;New;19/06/2019 21:11:45
+69;User Story;Histórico de recebimento REATIVO de consumíveis;19/06/2019 21:23:58;UX\Iteration 1;Backlog;19/06/2019 21:23:58
+70;User Story;Troca ANTECIPADA de consumíveis;19/06/2019 21:26:32;UX\Iteration 1;Backlog;19/06/2019 21:26:32
+71;User Story;Trocas CORRETAS de consumíveis;19/06/2019 21:26:48;UX\Iteration 1;Backlog;19/06/2019 21:26:48
+72;User Story;PROJEÇÃO de ABASTECIMENTO de consumíveis;19/06/2019 21:36:15;UX\Iteration 1;Backlog;19/06/2019 21:36:15
+72;User Story;PROJEÇÃO de ABASTECIMENTO de consumíveis;19/06/2019 21:36:15;UX;To do;01/07/2019 17:55:35
+72;User Story;PROJEÇÃO de ABASTECIMENTO de consumíveis;19/06/2019 21:36:15;UX\Iteration 1;Development;02/07/2019 11:50:00
+73;Feature;PRÓ-ATIVO de consumíveis;19/06/2019 21:38:44;UX\Iteration 1;New;19/06/2019 21:38:44
+74;Feature;REATIVO de consumíveis;19/06/2019 21:40:11;UX\Iteration 1;New;19/06/2019 21:40:11
+75;Feature;TROCAS CORRETAS de consumíveis;19/06/2019 21:46:15;UX\Iteration 1;New;19/06/2019 21:46:15
+76;Feature;TROCAS ANTECIPADAS de consumíveis;19/06/2019 21:46:25;UX\Iteration 1;New;19/06/2019 21:46:25
+77;Feature;PROJEÇÃO de abastecimento;19/06/2019 21:49:25;UX\Iteration 1;New;19/06/2019 21:49:25
+78;User Story;PESQUISA HISTÓRICO de ENVIO PRÓ-ATIVO;24/06/2019 13:31:11;UX\Iteration 1;Backlog;24/06/2019 13:31:11
+79;User Story;FILTROS de PRÓ-ATIVO de consumíveis;24/06/2019 14:33:14;UX\Iteration 1;Backlog;24/06/2019 14:33:14
+80;User Story;PESQUISA HISTÓRICO POR PERÍODO ESPECÍFICO de ENVIO REATIVO;24/06/2019 16:39:40;UX\Iteration 1;Backlog;24/06/2019 16:39:40
+81;User Story;FILTROS de REATIVOS de consumíveis;24/06/2019 16:46:46;UX\Iteration 1;Backlog;24/06/2019 16:46:46
+82;User Story;CONSCIÊNCIA AMBIENTAL de ENVIO PRÓ-ATIVO de consumíveis;24/06/2019 17:09:32;UX\Iteration 1;Backlog;24/06/2019 17:09:32
+84;User Story;JUSTIFICATIVA DE TROCAS ANTECIPADAS de consumíveis;24/06/2019 17:37:11;UX\Iteration 1;Backlog;24/06/2019 17:37:11
+85;User Story;RELATÓRIO de TROCAS ANTECIPADAS de consumíveis;24/06/2019 18:22:10;UX\Iteration 1;Backlog;24/06/2019 18:22:10
+87;User Story;CONSCIÊNCIA AMBIENTAL para TROCA de consumíveis;24/06/2019 18:53:51;UX\Iteration 1;Backlog;24/06/2019 18:53:51
+88;User Story;Upload Apelidos de Equipamentos;25/06/2019 11:08:12;UX\Iteration 1;Backlog;25/06/2019 11:08:12
+88;User Story;Upload Apelidos de Equipamentos;25/06/2019 11:08:12;UX;Development;01/07/2019 14:16:43
+88;User Story;Upload Apelidos de Equipamentos;25/06/2019 11:08:12;UX\Iteration 1;Resolved;02/07/2019 11:39:35
+90;Bug;Lentidão e travamento na funcionalidade Gerenciamento/usuário;26/06/2019 17:27:13;UX\Iteration 1;Backlog;26/06/2019 17:27:13
+90;Bug;Lentidão e travamento na funcionalidade Gerenciamento/usuário;26/06/2019 17:27:13;UX\Iteration 1;Development;26/06/2019 18:58:18
+90;Bug;Lentidão e travamento na funcionalidade Gerenciamento/usuário;26/06/2019 17:27:13;UX\Iteration 1;Test;01/07/2019 14:01:40
+90;Bug;Lentidão e travamento na funcionalidade Gerenciamento/usuário;26/06/2019 17:27:13;UX\Iteration 1;Homologation;01/07/2019 18:02:32
+90;Bug;Lentidão e travamento na funcionalidade Gerenciamento/usuário;26/06/2019 17:27:13;UX\Iteration 1;Closed;02/07/2019 11:39:22
+91;Bug;Lentidão de erro 502 na tela Fat./Cobrança / Títulos/Faturas/Boletos;26/06/2019 17:27:41;UX\Iteration 1;Backlog;26/06/2019 17:27:41
+91;Bug;Lentidão de erro 502 na tela Fat./Cobrança / Títulos/Faturas/Boletos;26/06/2019 17:27:41;UX\Iteration 1;To do;26/06/2019 17:36:50
+91;Bug;Lentidão de erro 502 na tela Fat./Cobrança / Títulos/Faturas/Boletos;26/06/2019 17:27:41;UX\Iteration 1;Development;27/06/2019 12:10:15
+91;Bug;Lentidão e erro 502 na tela Fat./Cobrança / Títulos/Faturas/Boletos;26/06/2019 17:27:41;UX\Iteration 1;Resolved;03/07/2019 14:22:14
+92;User Story;RELATÓRIO de PROJEÇÃO de ABASTECIMENTO de consumíveis;26/06/2019 17:29:06;UX\Iteration 1;Backlog;26/06/2019 17:29:06
+92;User Story;RELATÓRIO de PROJEÇÃO de ABASTECIMENTO de consumíveis;26/06/2019 17:29:06;UX\Iteration 1;To do;01/07/2019 17:55:54
+93;User Story;INDICADORES de PROJEÇÃO de ABASTECIMENTO de consumíveis;26/06/2019 18:02:31;UX\Iteration 1;Backlog;26/06/2019 18:02:31
+93;User Story;INDICADORES de PROJEÇÃO de ABASTECIMENTO de consumíveis;26/06/2019 18:02:31;UX\Iteration 1;To do;01/07/2019 17:56:20
+95;User Story;Merge do repositório TFS e Git;27/06/2019 13:02:54;UX\Iteration 1;Backlog;27/06/2019 13:02:54
+95;User Story;Merge do repositório TFS e Git;27/06/2019 13:02:54;UX\Iteration 1;To do;27/06/2019 13:02:58
+95;User Story;Merge do repositório TFS e Git;27/06/2019 13:02:54;UX\Iteration 1;Development;27/06/2019 13:03:03
+95;User Story;Merge do repositório TFS e Git;27/06/2019 13:02:54;UX\Iteration 1;Test;27/06/2019 17:13:14
+95;User Story;Merge do repositório TFS e Git;27/06/2019 13:02:54;UX\Iteration 1;Resolved;27/06/2019 17:13:19
+110;User Story;Publicar Test Coverage no SonarQube;28/06/2019 13:51:55;UX\Iteration 1;Backlog;28/06/2019 13:51:55
+110;User Story;Publicar Test Coverage no SonarQube;28/06/2019 13:51:55;UX\Iteration 1;To do;28/06/2019 13:52:02
+110;User Story;Publicar Test Coverage no SonarQube;28/06/2019 13:51:55;UX\Iteration 1;Development;28/06/2019 13:52:17
+110;User Story;Publicar Test Coverage no SonarQube;28/06/2019 13:51:55;UX\Iteration 1;Test;28/06/2019 16:15:33
+110;User Story;Publicar Test Coverage no SonarQube;28/06/2019 13:51:55;UX\Iteration 1;Resolved;28/06/2019 16:15:37
+113;Bug;Upload de declaração no processo de retirada;01/07/2019 20:18:40;UX\Iteration 1;Backlog;01/07/2019 20:18:40
+113;Bug;Upload de declaração no processo de retirada;01/07/2019 20:18:40;UX\Iteration 1;To do;01/07/2019 20:21:26
+113;Bug;Upload de declaração no processo de retirada;01/07/2019 20:18:40;UX\Iteration 1;Development;02/07/2019 12:03:18
+113;Bug;Upload de declaração no processo de retirada;01/07/2019 20:18:40;UX\Iteration 1;Closed;03/07/2019 12:27:07
+114;Bug;597063;03/07/2019 14:42:34;UX\Iteration 1;Backlog;03/07/2019 14:42:34
+115;Bug;as;03/07/2019 14:55:04;UX\Iteration 1;Backlog;03/07/2019 14:55:04
+116;Bug;597205;03/07/2019 15:01:13;UX\Iteration 1;Backlog;03/07/2019 15:01:13
+117;Bug;597224;03/07/2019 15:01:44;UX\Iteration 1;Backlog;03/07/2019 15:01:44
+118;Bug;597280;03/07/2019 15:02:33;UX\Iteration 1;Backlog;03/07/2019 15:02:33
+119;Bug;597485;03/07/2019 15:08:06;UX\Iteration 1;Backlog;03/07/2019 15:08:06
